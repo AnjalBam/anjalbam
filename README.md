@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey... Its me [Anjal](github.com/anjalbam)👋 :v: :fist:
+
+- 🌱 I’m currently learning Django and Django-rest-framework
 
 <!--
 **AnjalBam/anjalbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
