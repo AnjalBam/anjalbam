@@ -1,6 +1,7 @@
 ### Hey... Its me [Anjal](github.com/anjalbam)👋 :v: :fist:
 
-- 🌱 I’m currently learning Django and Django-rest-framework
+- 🔭 I’m currently working on an E-Commerce website.
+- 🌱 I’m currently learning NodeJs and ExpressJS.
 - 👯 I’m looking to collaborate on ReactJs and Django Full-Stack Projects
 
 <!--
