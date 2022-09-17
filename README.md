@@ -3,14 +3,8 @@
 - 🌱 I’m currently learning NodeJs and ExpressJS.
 - 👯 I’m looking to collaborate on ReactJs and Django Full-Stack Projects
 
-<div style="display:flex; flex-wrap: wrap">
-  <div>
-[![anjalbam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalbam&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>
+| <a href="https://github.com/anjalbam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anjal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **AnjalBam/anjalbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
