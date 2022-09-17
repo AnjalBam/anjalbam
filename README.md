@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJs and ExpressJS.
 - 👯 I’m looking to collaborate on ReactJs and Django Full-Stack Projects
 
-| <a href="https://github.com/anjalbam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Anjal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anjalbam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Anjal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
