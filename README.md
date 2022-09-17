@@ -14,12 +14,15 @@
 
 
 ---
-## GitHub Statistics
+### GitHub Statistics
 <a href="#github-statistics">
 <img align="center" style="margin-top:1rem" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" /></a>
 
+---
+### Top Languages
 <a href="#github-statistics">
 <img style="margin-top:1rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" /></a>
+
 
 <!--
 **AnjalBam/anjalbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
