@@ -16,12 +16,10 @@
 ---
 ## GitHub Statistics
 <div style="display:flex; flex-wrap:wrap; align-items:center;justify-content:center;">
-<div>
-<img align="center" style="margin-top:1rem" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" />
-</div>
-<div>
-<img style="margin-top:1rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" />
-</div>
+<a href="#github-statistics">
+<img align="center" style="margin-top:1rem" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" /></a>
+<a href="#github-statistics">
+<img style="margin-top:1rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" /></a>
 </div>
 
 <!--
