@@ -1,10 +1,28 @@
-### Hey... Its me [Anjal](github.com/anjalbam)👋 :v: :fist:
+<div style="display:flex;justify-content:center;margin-bottom:2rem;">
+<img style="width:90%;" src="./assets/cover.svg" alt="Hey I am ANJAL BAM">
+</div>
 
-- 🌱 I’m currently learning NodeJs and ExpressJS.
-- 👯 I’m looking to collaborate on ReactJs and Django Full-Stack Projects
+### Hey... Its me [Anjal Bam](https://anjalbam.com.np).👋 A Full Stack Engineer from Kathmandu.
 
-| <a href="https://github.com/anjalbam/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=buefy&hide_border=true" alt="Anjal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### **About Me**
+- 🕵🏼 I am a Software Engineer (Frontend) at [Khalti](https://khalti.com)
+- 💖 I love writing Typescript, JavaScript and Python.
+- 🤯 I am fascinated with AI, Machine Learning and Technology in general.
+- 🤓 Writes blog at [blog.anjalbam.com.np](https://blog.anjalbam.com.np)
+
+
+
+
+---
+## GitHub Statistics
+<div style="display:flex; flex-wrap:wrap; align-items:center;justify-content:center;">
+<div>
+<img align="center" style="width:100%;margin-top:1rem" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" />
+</div>
+<div>
+<img style="width:100%;margin-top:1rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" />
+</div>
+</div>
 
 <!--
 **AnjalBam/anjalbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
