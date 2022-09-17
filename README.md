@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning NodeJs and ExpressJS.
 - 👯 I’m looking to collaborate on ReactJs and Django Full-Stack Projects
 
-![](https://raw.githubusercontent.com/anjalbam/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/anjalbam/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![anjalbam's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalbam)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AnjalBam/anjalbam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
