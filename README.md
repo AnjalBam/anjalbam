@@ -14,7 +14,7 @@
 ---
 
 <p align='center'>
-<h3>GitHub Statistics</h3>
+<h3 align='center'>GitHub Statistics</h3>
 <a href="#">
 <img align="center" style="margin-top:1rem" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" /></a>
 </p>
@@ -22,7 +22,7 @@
 ---
 
 <p align='center'>
-<h3>Top Languages</h3>
+<h3 align='center'>Top Languages</h3>
 <a href="#">
 <img style="margin-top:1rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" /></a>
 </p>
