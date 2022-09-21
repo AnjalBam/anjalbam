@@ -15,16 +15,14 @@
 
 <p align='center'>
 <h3 align='center'>GitHub Statistics</h3>
-<a href="#" align="center">
-<img style="margin-top:1rem"  align="center" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" />
 </p>
 
 ---
 
 <p align='center'>
 <h3 align='center'>Top Languages</h3>
-<a href="#"  align="center">
-<img style="margin-top:1rem"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" />
 </p>
 
 <!--
