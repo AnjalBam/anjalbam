@@ -13,16 +13,18 @@
 
 ---
 
-<p align='center'>
-<h3 align='center'>GitHub Statistics</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" alt="Anjal's github stats" />
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" align="center" alt="Anjal's github stats" />
+
+ <h3 align="center">GitHub Statistics</h3>
 </p>
 
 ---
 
-<p align='center'>
-<h3 align='center'>Top Languages</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" />
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=buefy&hide_border=true&langs_count=8&theme=synthwave" align="center" alt="Anjal's Top Languages" />
+ <h3 align="center">Top Languages</h3>
+
 </p>
 
 <!--
