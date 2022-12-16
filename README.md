@@ -6,7 +6,7 @@
 
 ### **About Me**
 
--   🕵🏼 I am a Software Engineer (Frontend) at [Khalti](https://khalti.com)
+-   🕵🏼 I am a Software Engineer at [Khalti](https://khalti.com)
 -   💖 I love writing Typescript, JavaScript and Python.
 -   🤯 I am fascinated with AI, Machine Learning and Technology in general.
 -   🤓 Writes blog at [blog.anjalbam.com.np](https://blog.anjalbam.com.np)
