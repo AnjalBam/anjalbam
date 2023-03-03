@@ -14,7 +14,9 @@
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=anjalbam&show_icons=true&count_private=true&theme=syntwave&hide_border=true" align="center" alt="Anjal's github stats" />
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=sarayugautam&theme=dark&background=000000" alt="Anjal's github stats" />
+ 
+ [![GitHub Streak]()](https://git.io/streak-stats)
 
  <h3 align="center">GitHub Statistics</h3>
 </p>
