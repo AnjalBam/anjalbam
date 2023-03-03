@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=synthwave&hide_border=true&langs_count=8&theme=synthwave" align="center" alt="Anjal's Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalbam&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&theme=synthwave" align="center" alt="Anjal's Top Languages" />
  <h3 align="center">Top Languages</h3>
 
 </p>
