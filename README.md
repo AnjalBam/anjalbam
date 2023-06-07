@@ -2,7 +2,7 @@
 <img style="width:90%;" src="./assets/cover.svg" alt="Hey I am ANJAL BAM">
 </div>
 
-### Hey... Its me [Anjal Bam](https://anjalbam.com.np).👋 A Full Stack Engineer from Kathmandu.
+### Hey... Its me [Anjal Bam](https://anjalbam.com.np).👋 A Software Engineer from Kathmandu.
 
 ### **About Me**
 
