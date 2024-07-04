@@ -6,8 +6,8 @@
 
 ### **About Me**
 
--   🕵🏼 I am a Software Engineer at [Khalti](https://khalti.com)
--   💖 I love writing Typescript, JavaScript and Python.
+-   🕵🏼 Software Engineer at [Verisk](https://verisk.com)
+-   💖 In love with Python, JavaScript and Typescript.
 -   🤯 I am fascinated with AI, Machine Learning and Technology in general.
 -   🤓 Writes blog at [blog.anjalbam.com.np](https://blog.anjalbam.com.np)
 
